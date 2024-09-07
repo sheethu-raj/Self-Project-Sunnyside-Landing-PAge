@@ -7,4 +7,5 @@ It showcases the basic parts that we see in a landing page, such as
  - a section depicting the features/services
  - a section for testimonials, and
  - a footer section
+
 This website uses vibrant colors that depict summer and can be used as a sample for any summer products.
